@@ -7,11 +7,13 @@ The purpose of this project is to pitch the business idea to potential investor 
 ## Resources
 
 Data source:
+
     hawaii.sqlite
 
 <!-- "pip show <software>" in command prompt to see pip install ver -->
 <!-- pip show code from https://stackoverflow.com/questions/10214827/find-which-version-of-package-is-installed-with-pip -->
 Software:
+
     Jupyter 1.0.0 notebook 6.4.6,
     Pandas
     Python 3.9.7,
@@ -34,6 +36,8 @@ Software:
 
 June summary statistics image
 
+![june_temp](https://user-images.githubusercontent.com/96349090/157562847-a126e1ac-da4a-49dd-9ffe-dd26bb04a7d7.png)
+
 ### December 2010 - 2016 summary statistics
 
 - A total of 1517 observations are collected.
@@ -44,12 +48,14 @@ June summary statistics image
 
 December summary statistics image
 
+![dec_temp](https://user-images.githubusercontent.com/96349090/157562872-573debdc-656b-475b-b245-c154c76975cb.png)
+
 ---
 
 <!-- Summary: Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December. -->
 ## Summary
 
-Based on the summary statistics, June and December average temperatures, standard deviations, minimum temperatures, and maximum temperatures are fairly similar. The low standard deviations implies temperature variation throughout the years is low during these months.
+Based on the summary statistics, June and December average temperatures, standard deviations, minimum temperatures, and maximum temperatures are fairly similar. The low standard deviations implies temperature variation throughout the years is low during these months. Note that data for June is collected over eight years while the data for December is collected over seven years, resulting in a difference of 183 observations. Summary statistics would be more representative should data for December 2017 also be included in the Measurement table.
 
 In addition to the above summary statistics, a query that a potential investor may also be interested in is the precipitation levels for each month of the year. Should there be a rain season that would affect the number of clients to the shop, the business may benefit from opening only partially each year.
 

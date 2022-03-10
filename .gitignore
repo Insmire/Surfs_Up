@@ -1,3 +1,10 @@
+# add files
+climate_analysis.ipynb
+SurfsUp_Challenge_starter_code.ipynb
+app_practice.py
+app.py
+example.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

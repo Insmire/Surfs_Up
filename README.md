@@ -1,6 +1,6 @@
 ## Overview
 
-The purpose of this project is to pitch the business idea to potential investor W. Avy of setting up a shop named Surf n' Shake in Oahu that will provide surfing equipment and ice cream. For this end, database SQLite table Measurement is queried using object-relational mapper SQLAlchemy. The Measurement table contains temperature observations from January 1, 2010 through August 23, 2017. By W. Avy's request data is filtered specifically for the months of June and December. A summary statistics for each month is then presented as a Pandas DataFrame within Jupyter Notebook SurfsUp_Challenge.ipynb.
+The purpose of this project is to pitch the business idea to potential investor W. Avy of setting up a shop named Surf n' Shake in Oahu that will provide surfing equipment and ice cream. For this end, database SQLite table Measurement is queried using object-relational mapper SQLAlchemy. The Measurement table contains temperature observations from January 1, 2010 through August 23, 2017. By W. Avy's request, data is filtered specifically for the months of June and December. A summary statistics for each month is then presented as a Pandas DataFrame within Jupyter Notebook SurfsUp_Challenge.ipynb.
 
 ---
 
